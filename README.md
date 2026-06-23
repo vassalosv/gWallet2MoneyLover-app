@@ -1,4 +1,4 @@
-# gWallet2MoneyLover
+# gWallet2MoneyLover - Android app 
 
 Android automation app that detects Google Wallet payment notifications and helps enter the payment amount into Money Lover Premium.
 
@@ -211,6 +211,10 @@ This was fixed in v1.0.10 by replacing the preference screen with explicit nativ
 - It does not upload data.
 - It does not automatically save transactions in Money Lover.
 - The user must explicitly press `Yes` before Money Lover is opened and automated.
+
+## Tested Devices
+
+- Samsung Galaxy Z Fold 7 (Android version 16, One UI version 8.5)
 
 ## Disclaimer
 
