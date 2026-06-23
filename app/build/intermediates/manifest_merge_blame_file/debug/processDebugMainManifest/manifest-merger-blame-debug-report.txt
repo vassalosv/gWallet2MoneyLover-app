@@ -1,0 +1,312 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.iridalabs.gwallet2moneylover.debug"
+4    android:versionCode="9"
+5    android:versionName="1.0.8-debug" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="35" />
+10
+11    <!-- Required for NotificationListenerService -->
+12    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+12-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:6:5-81
+12-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:6:22-78
+13    <!-- Required for the floating overlay -->
+14    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+14-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:8:5-78
+14-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:8:22-75
+15    <!-- Required for posting our own notifications -->
+16    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+16-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:10:5-77
+16-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:10:22-74
+17    <!-- Required for foreground services (kept for future use) -->
+18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+18-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:12:5-77
+18-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:12:22-74
+19    <!-- Vibration for alerts -->
+20    <uses-permission android:name="android.permission.VIBRATE" />
+20-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:14:5-66
+20-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:14:22-63
+21    <!-- Request battery optimization exemption (keeps the listener alive on Samsung) -->
+22    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+22-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:16:5-95
+22-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:16:22-92
+23    <!-- Query other packages (to check if Money Lover is installed) -->
+24    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+24-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:18:5-19:53
+24-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:18:22-74
+25
+26    <queries>
+26-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:21:5-23:15
+27        <package android:name="com.bookmark.money" />
+27-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:22:9-54
+27-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:22:18-51
+28    </queries>
+29
+30    <permission
+30-->[androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+31        android:name="com.iridalabs.gwallet2moneylover.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+31-->[androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+32        android:protectionLevel="signature" />
+32-->[androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+33
+34    <uses-permission android:name="com.iridalabs.gwallet2moneylover.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+34-->[androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+34-->[androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+35
+36    <application
+36-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:25:5-119:19
+37        android:allowBackup="false"
+37-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:26:9-36
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+39        android:debuggable="true"
+40        android:extractNativeLibs="false"
+41        android:icon="@mipmap/ic_launcher"
+41-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:27:9-43
+42        android:label="@string/app_name"
+42-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:28:9-41
+43        android:roundIcon="@mipmap/ic_launcher_round"
+43-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:29:9-54
+44        android:supportsRtl="true"
+44-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:30:9-35
+45        android:theme="@style/Theme.GWallet2MoneyLover" >
+45-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:31:9-56
+46
+47        <!--
+48        ══════════════════════════════════════════════
+49             Main entry point
+50        ══════════════════════════════════════════════════
+51        -->
+52        <activity
+52-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:36:9-44:20
+53            android:name="com.iridalabs.gwallet2moneylover.ui.MainActivity"
+53-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:37:13-44
+54            android:exported="true"
+54-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:38:13-36
+55            android:label="@string/app_name" >
+55-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:39:13-45
+56            <intent-filter>
+56-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:40:13-43:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:41:17-69
+57-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:41:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:42:17-77
+59-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:42:27-74
+60            </intent-filter>
+61        </activity>
+62
+63        <!-- Settings screen -->
+64        <activity
+64-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:47:9-51:61
+65            android:name="com.iridalabs.gwallet2moneylover.ui.SettingsActivity"
+65-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:48:13-48
+66            android:exported="false"
+66-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:49:13-37
+67            android:label="@string/settings"
+67-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:50:13-45
+68            android:parentActivityName="com.iridalabs.gwallet2moneylover.ui.MainActivity" />
+68-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:51:13-58
+69
+70        <!-- Confirmation screen shown after user taps Yes -->
+71        <activity
+71-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:54:9-60:75
+72            android:name="com.iridalabs.gwallet2moneylover.ui.ConfirmationActivity"
+72-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:55:13-52
+73            android:excludeFromRecents="true"
+73-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:57:13-46
+74            android:exported="false"
+74-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:56:13-37
+75            android:launchMode="singleTask"
+75-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:58:13-44
+76            android:showOnLockScreen="true"
+76-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:59:13-44
+77            android:theme="@style/Theme.GWallet2MoneyLover.Translucent" />
+77-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:60:13-72
+78
+79        <!--
+80        ══════════════════════════════════════════════
+81             Google Wallet notification listener
+82        ══════════════════════════════════════════════════
+83        -->
+84        <service
+84-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:65:9-73:19
+85            android:name="com.iridalabs.gwallet2moneylover.notification.WalletNotificationListener"
+85-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:66:13-68
+86            android:exported="true"
+86-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:67:13-36
+87            android:label="@string/notification_listener_label"
+87-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:68:13-64
+88            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" >
+88-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:69:13-87
+89            <intent-filter>
+89-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:70:13-72:29
+90                <action android:name="android.service.notification.NotificationListenerService" />
+90-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:71:17-99
+90-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:71:25-96
+91            </intent-filter>
+92        </service>
+93
+94        <!--
+95        ══════════════════════════════════════════════
+96             Floating overlay service (regular background service)
+97        ══════════════════════════════════════════════════
+98        -->
+99        <service
+99-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:78:9-80:40
+100            android:name="com.iridalabs.gwallet2moneylover.overlay.OverlayService"
+100-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:79:13-51
+101            android:exported="false" />
+101-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:80:13-37
+102
+103        <!--
+104        ══════════════════════════════════════════════
+105             Money Lover accessibility automation
+106        ══════════════════════════════════════════════════
+107        -->
+108        <service
+108-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:85:9-96:19
+109            android:name="com.iridalabs.gwallet2moneylover.accessibility.MoneyLoverAccessibilityService"
+109-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:86:13-73
+110            android:exported="true"
+110-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:87:13-36
+111            android:label="@string/accessibility_service_label"
+111-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:88:13-64
+112            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE" >
+112-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:89:13-79
+113            <intent-filter>
+113-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:90:13-92:29
+114                <action android:name="android.accessibilityservice.AccessibilityService" />
+114-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:91:17-92
+114-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:91:25-89
+115            </intent-filter>
+116
+117            <meta-data
+117-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:93:13-95:72
+118                android:name="android.accessibilityservice"
+118-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:94:17-60
+119                android:resource="@xml/accessibility_service_config" />
+119-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:95:17-69
+120        </service>
+121
+122        <!--
+123        ══════════════════════════════════════════════
+124             Broadcast receiver for notification button taps
+125        ══════════════════════════════════════════════════
+126        -->
+127        <receiver
+127-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:101:9-108:20
+128            android:name="com.iridalabs.gwallet2moneylover.receiver.PaymentActionReceiver"
+128-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:102:13-59
+129            android:exported="false" >
+129-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:103:13-37
+130            <intent-filter>
+130-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:104:13-107:29
+131                <action android:name="com.iridalabs.gwallet2moneylover.ACTION_CONFIRMED" />
+131-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:105:17-92
+131-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:105:25-89
+132                <action android:name="com.iridalabs.gwallet2moneylover.ACTION_DISMISSED" />
+132-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:106:17-92
+132-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:106:25-89
+133            </intent-filter>
+134        </receiver>
+135
+136        <!-- Boot receiver to restart listener if needed -->
+137        <receiver
+137-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:111:9-117:20
+138            android:name="com.iridalabs.gwallet2moneylover.receiver.BootReceiver"
+138-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:112:13-50
+139            android:exported="true" >
+139-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:113:13-36
+140            <intent-filter>
+140-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:114:13-116:29
+141                <action android:name="android.intent.action.BOOT_COMPLETED" />
+141-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:115:17-79
+141-->D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:115:25-76
+142            </intent-filter>
+143        </receiver>
+144
+145        <provider
+145-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+146            android:name="androidx.startup.InitializationProvider"
+146-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+147            android:authorities="com.iridalabs.gwallet2moneylover.debug.androidx-startup"
+147-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+148            android:exported="false" >
+148-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+149            <meta-data
+149-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+150                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+150-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+151                android:value="androidx.startup" />
+151-->[androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+152            <meta-data
+152-->[androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:29:13-31:52
+153                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+153-->[androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:30:17-78
+154                android:value="androidx.startup" />
+154-->[androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:31:17-49
+155            <meta-data
+155-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+156                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+156-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+157                android:value="androidx.startup" />
+157-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+158        </provider>
+159
+160        <uses-library
+160-->[androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+161            android:name="androidx.window.extensions"
+161-->[androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+162            android:required="false" />
+162-->[androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+163        <uses-library
+163-->[androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+164            android:name="androidx.window.sidecar"
+164-->[androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+165            android:required="false" />
+165-->[androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+166
+167        <receiver
+167-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+168            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+168-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+169            android:directBootAware="false"
+169-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+170            android:enabled="true"
+170-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+171            android:exported="true"
+171-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+172            android:permission="android.permission.DUMP" >
+172-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+173            <intent-filter>
+173-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+174                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+174-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+174-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+175            </intent-filter>
+176            <intent-filter>
+176-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+177                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+177-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+177-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+178            </intent-filter>
+179            <intent-filter>
+179-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+180                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+180-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+180-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+181            </intent-filter>
+182            <intent-filter>
+182-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+183                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+183-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+183-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+184            </intent-filter>
+185        </receiver>
+186    </application>
+187
+188</manifest>

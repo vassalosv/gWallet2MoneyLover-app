@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Required for NotificationListenerService -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <!-- Required for the floating overlay -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <!-- Required for posting our own notifications -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <!-- Required for foreground services (kept for future use) -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <!-- Vibration for alerts -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <!-- Request battery optimization exemption (keeps the listener alive on Samsung) -->
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+    <!-- Query other packages (to check if Money Lover is installed) -->
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"
+        tools:ignore="QueryAllPackagesPermission" />
+
+    <queries>
+        <package android:name="com.bookmark.money" />
+    </queries>
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GWallet2MoneyLover">
+
+        <!-- ══════════════════════════════════════════════
+             Main entry point
+        ══════════════════════════════════════════════════ -->
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="true"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Settings screen -->
+        <activity
+            android:name=".ui.SettingsActivity"
+            android:exported="false"
+            android:label="@string/settings"
+            android:parentActivityName=".ui.MainActivity" />
+
+        <!-- Confirmation screen shown after user taps Yes -->
+        <activity
+            android:name=".ui.ConfirmationActivity"
+            android:exported="false"
+            android:excludeFromRecents="true"
+            android:launchMode="singleTask"
+            android:showOnLockScreen="true"
+            android:theme="@style/Theme.GWallet2MoneyLover.Translucent" />
+
+        <!-- ══════════════════════════════════════════════
+             Google Wallet notification listener
+        ══════════════════════════════════════════════════ -->
+        <service
+            android:name=".notification.WalletNotificationListener"
+            android:exported="true"
+            android:label="@string/notification_listener_label"
+            android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService" />
+            </intent-filter>
+        </service>
+
+        <!-- ══════════════════════════════════════════════
+             Floating overlay service (regular background service)
+        ══════════════════════════════════════════════════ -->
+        <service
+            android:name=".overlay.OverlayService"
+            android:exported="false" />
+
+        <!-- ══════════════════════════════════════════════
+             Money Lover accessibility automation
+        ══════════════════════════════════════════════════ -->
+        <service
+            android:name=".accessibility.MoneyLoverAccessibilityService"
+            android:exported="true"
+            android:label="@string/accessibility_service_label"
+            android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
+            <intent-filter>
+                <action android:name="android.accessibilityservice.AccessibilityService" />
+            </intent-filter>
+            <meta-data
+                android:name="android.accessibilityservice"
+                android:resource="@xml/accessibility_service_config" />
+        </service>
+
+        <!-- ══════════════════════════════════════════════
+             Broadcast receiver for notification button taps
+        ══════════════════════════════════════════════════ -->
+        <receiver
+            android:name=".receiver.PaymentActionReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.iridalabs.gwallet2moneylover.ACTION_CONFIRMED" />
+                <action android:name="com.iridalabs.gwallet2moneylover.ACTION_DISMISSED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- Boot receiver to restart listener if needed -->
+        <receiver
+            android:name=".receiver.BootReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

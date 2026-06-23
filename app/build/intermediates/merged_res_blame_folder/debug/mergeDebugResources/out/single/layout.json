@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-mergeDebugResources-40:\\layout\\overlay_payment.xml",
+        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\layout\\overlay_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-mergeDebugResources-40:\\layout\\activity_confirmation.xml",
+        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\layout\\activity_confirmation.xml"
+    },
+    {
+        "merged": "com.iridalabs.gwallet2moneylover.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-mergeDebugResources-40:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\layout\\activity_settings.xml"
+    }
+]

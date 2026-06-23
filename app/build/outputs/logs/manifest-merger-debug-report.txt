@@ -1,0 +1,475 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:1-121:12
+MERGED from [androidx.databinding:viewbinding:8.13.2] C:\Users\vassa\.gradle\caches\8.13\transforms\ce9dce1a98673727dc6909b7e24273e7\transformed\jetified-viewbinding-8.13.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vassa\.gradle\caches\8.13\transforms\d8c38c48fef00aeb608bab3fb14fdaa2\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\vassa\.gradle\caches\8.13\transforms\d7b3a74e93f9f17fa9c9e254b20c53a5\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\vassa\.gradle\caches\8.13\transforms\1fab09389c4add92d176d54dd39752e0\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.preference:preference-ktx:1.2.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5a9d2105a94492410ab3dea5a64a0244\transformed\jetified-preference-ktx-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\vassa\.gradle\caches\8.13\transforms\3bcadcba9b74f566b9dc202ef35fc818\transformed\preference-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\vassa\.gradle\caches\8.13\transforms\293d51b0d5d45f9e8b4c686bb72cd6f6\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\cbd2704e7ea68a117b728d4770fe7918\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\9dd7122881fed4377858f9a8a0c072e8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\vassa\.gradle\caches\8.13\transforms\3732929845622fd71bfc38de25ea0c67\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\vassa\.gradle\caches\8.13\transforms\d268c74a9c8cdd72e18bda5a808bda41\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\vassa\.gradle\caches\8.13\transforms\cdf0644370b2004388db1756725afbef\transformed\jetified-activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\vassa\.gradle\caches\8.13\transforms\61e2e98f3877897ba772a2f71b525b32\transformed\jetified-activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\27868bf31f5d8bc7cd831ae94a9c1718\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\78189e82de614e3d7f231cc8c128705a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\vassa\.gradle\caches\8.13\transforms\60804724df7215d9a7032c237fdb2bc1\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\vassa\.gradle\caches\8.13\transforms\974ce4128ad8072c1673d5f5ff577b3f\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\2d94b0fed31a3e66e27294a7fdb43377\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\49e870a9eec8f3204f2e1c6917360c71\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\a0db3a8a3044f3d163644f754109c9bb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\13ea80fdd53fcafad0ee1bcee48f1abb\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\9ecf542824d18a752d7959bd476443ac\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\fe28de0ea1dd093fbcd9a4b7b3104b7f\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\96dc5ba0ec6ac745e2f43434945c1f8a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\8e4064bf533fafb43f5fb92c42b3605e\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\vassa\.gradle\caches\8.13\transforms\6c98c4c1d3f226c1fb5acc78e537fdc4\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\vassa\.gradle\caches\8.13\transforms\32daa88935b2a602a0e62a7d0e49c562\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\0bfdd65e964ac4955c74bcb336716d52\transformed\jetified-lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\ae819659b3a27257a69c686b88603526\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1de6546d6a99c4eda84b6f48dafce929\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\fa0d464a309ea66400e033aa23546301\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\f8ae37a320104af09ae041aea7b606c5\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\314f8350af3ea4086644de720dcd172b\transformed\jetified-lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\a91833680856fef55842a1780c59cb4c\transformed\jetified-lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\7dcd3f67eb8a8f4e1254ef1498bc41b7\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\77b6deb97f3d02e83849e08ced19dab2\transformed\jetified-lifecycle-service-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\dcb1395502a84240bef5c2078cab817e\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5622f500b8ee1ba8088920d7fb9cc5c3\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\vassa\.gradle\caches\8.13\transforms\c924204df1d54053fb915a0451ad675d\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\8a001bc4c7106e9936276fc3cb13a1bd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\fff9025cb78e1db28a9ad4e5996b2f35\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\c966073feb34075ace53cf5c25539468\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\f0bd3e27d71c43bdf22cbee9bd9e7f58\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5c16d0bbca8c8b33bfaf47f4fd79d16f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\c1fc2c9a321e1e6cf20dc26c4bf3faed\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\vassa\.gradle\caches\8.13\transforms\3a8fb68bda746b894e8799054457f30b\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\0f18688b049b40db98fc6104294f3e01\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\cb469afe41707a9ba00e9dede7fa6ab9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\a7f16731680b65badebc42ec42ba2468\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:8:22-75
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:10:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:12:22-74
+uses-permission#android.permission.VIBRATE
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:16:5-95
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:16:22-92
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:18:5-19:53
+	tools:ignore
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:18:22-74
+queries
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:21:5-23:15
+package#com.bookmark.money
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:22:9-54
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:22:18-51
+application
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:25:5-119:19
+INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:25:5-119:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vassa\.gradle\caches\8.13\transforms\d8c38c48fef00aeb608bab3fb14fdaa2\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vassa\.gradle\caches\8.13\transforms\d8c38c48fef00aeb608bab3fb14fdaa2\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\vassa\.gradle\caches\8.13\transforms\d7b3a74e93f9f17fa9c9e254b20c53a5\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\vassa\.gradle\caches\8.13\transforms\d7b3a74e93f9f17fa9c9e254b20c53a5\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\f0bd3e27d71c43bdf22cbee9bd9e7f58\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\f0bd3e27d71c43bdf22cbee9bd9e7f58\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5c16d0bbca8c8b33bfaf47f4fd79d16f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5c16d0bbca8c8b33bfaf47f4fd79d16f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:28:9-41
+	android:roundIcon
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:29:9-54
+	android:icon
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:26:9-36
+	android:theme
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:31:9-56
+activity#com.iridalabs.gwallet2moneylover.ui.MainActivity
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:36:9-44:20
+	android:label
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:39:13-45
+	android:exported
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:37:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:42:27-74
+activity#com.iridalabs.gwallet2moneylover.ui.SettingsActivity
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:47:9-51:61
+	android:parentActivityName
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:51:13-58
+	android:label
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:50:13-45
+	android:exported
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:48:13-48
+activity#com.iridalabs.gwallet2moneylover.ui.ConfirmationActivity
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:54:9-60:75
+	android:excludeFromRecents
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:57:13-46
+	android:launchMode
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:58:13-44
+	android:exported
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:56:13-37
+	android:showOnLockScreen
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:59:13-44
+	android:theme
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:60:13-72
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:55:13-52
+service#com.iridalabs.gwallet2moneylover.notification.WalletNotificationListener
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:65:9-73:19
+	android:label
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:68:13-64
+	android:exported
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:67:13-36
+	android:permission
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:69:13-87
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:66:13-68
+intent-filter#action:name:android.service.notification.NotificationListenerService
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:70:13-72:29
+action#android.service.notification.NotificationListenerService
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:71:17-99
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:71:25-96
+service#com.iridalabs.gwallet2moneylover.overlay.OverlayService
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:78:9-80:40
+	android:exported
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:80:13-37
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:79:13-51
+service#com.iridalabs.gwallet2moneylover.accessibility.MoneyLoverAccessibilityService
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:85:9-96:19
+	android:label
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:88:13-64
+	android:exported
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:87:13-36
+	android:permission
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:89:13-79
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:86:13-73
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:90:13-92:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:91:17-92
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:91:25-89
+meta-data#android.accessibilityservice
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:93:13-95:72
+	android:resource
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:95:17-69
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:94:17-60
+receiver#com.iridalabs.gwallet2moneylover.receiver.PaymentActionReceiver
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:101:9-108:20
+	android:exported
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:103:13-37
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:102:13-59
+intent-filter#action:name:com.iridalabs.gwallet2moneylover.ACTION_CONFIRMED+action:name:com.iridalabs.gwallet2moneylover.ACTION_DISMISSED
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:104:13-107:29
+action#com.iridalabs.gwallet2moneylover.ACTION_CONFIRMED
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:105:17-92
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:105:25-89
+action#com.iridalabs.gwallet2moneylover.ACTION_DISMISSED
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:106:17-92
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:106:25-89
+receiver#com.iridalabs.gwallet2moneylover.receiver.BootReceiver
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:111:9-117:20
+	android:exported
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:113:13-36
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:112:13-50
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:114:13-116:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:115:17-79
+	android:name
+		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:115:25-76
+uses-sdk
+INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.13.2] C:\Users\vassa\.gradle\caches\8.13\transforms\ce9dce1a98673727dc6909b7e24273e7\transformed\jetified-viewbinding-8.13.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.13.2] C:\Users\vassa\.gradle\caches\8.13\transforms\ce9dce1a98673727dc6909b7e24273e7\transformed\jetified-viewbinding-8.13.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vassa\.gradle\caches\8.13\transforms\d8c38c48fef00aeb608bab3fb14fdaa2\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\vassa\.gradle\caches\8.13\transforms\d8c38c48fef00aeb608bab3fb14fdaa2\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\vassa\.gradle\caches\8.13\transforms\d7b3a74e93f9f17fa9c9e254b20c53a5\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\vassa\.gradle\caches\8.13\transforms\d7b3a74e93f9f17fa9c9e254b20c53a5\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\vassa\.gradle\caches\8.13\transforms\1fab09389c4add92d176d54dd39752e0\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\vassa\.gradle\caches\8.13\transforms\1fab09389c4add92d176d54dd39752e0\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.preference:preference-ktx:1.2.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5a9d2105a94492410ab3dea5a64a0244\transformed\jetified-preference-ktx-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.2.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5a9d2105a94492410ab3dea5a64a0244\transformed\jetified-preference-ktx-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\vassa\.gradle\caches\8.13\transforms\3bcadcba9b74f566b9dc202ef35fc818\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\vassa\.gradle\caches\8.13\transforms\3bcadcba9b74f566b9dc202ef35fc818\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\vassa\.gradle\caches\8.13\transforms\293d51b0d5d45f9e8b4c686bb72cd6f6\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\vassa\.gradle\caches\8.13\transforms\293d51b0d5d45f9e8b4c686bb72cd6f6\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\cbd2704e7ea68a117b728d4770fe7918\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\cbd2704e7ea68a117b728d4770fe7918\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\9dd7122881fed4377858f9a8a0c072e8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\9dd7122881fed4377858f9a8a0c072e8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\vassa\.gradle\caches\8.13\transforms\3732929845622fd71bfc38de25ea0c67\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] C:\Users\vassa\.gradle\caches\8.13\transforms\3732929845622fd71bfc38de25ea0c67\transformed\jetified-fragment-ktx-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\vassa\.gradle\caches\8.13\transforms\d268c74a9c8cdd72e18bda5a808bda41\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\vassa\.gradle\caches\8.13\transforms\d268c74a9c8cdd72e18bda5a808bda41\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\vassa\.gradle\caches\8.13\transforms\cdf0644370b2004388db1756725afbef\transformed\jetified-activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\vassa\.gradle\caches\8.13\transforms\cdf0644370b2004388db1756725afbef\transformed\jetified-activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\vassa\.gradle\caches\8.13\transforms\61e2e98f3877897ba772a2f71b525b32\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\vassa\.gradle\caches\8.13\transforms\61e2e98f3877897ba772a2f71b525b32\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\27868bf31f5d8bc7cd831ae94a9c1718\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\27868bf31f5d8bc7cd831ae94a9c1718\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\78189e82de614e3d7f231cc8c128705a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\78189e82de614e3d7f231cc8c128705a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\vassa\.gradle\caches\8.13\transforms\60804724df7215d9a7032c237fdb2bc1\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\vassa\.gradle\caches\8.13\transforms\60804724df7215d9a7032c237fdb2bc1\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\vassa\.gradle\caches\8.13\transforms\974ce4128ad8072c1673d5f5ff577b3f\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\vassa\.gradle\caches\8.13\transforms\974ce4128ad8072c1673d5f5ff577b3f\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\2d94b0fed31a3e66e27294a7fdb43377\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\2d94b0fed31a3e66e27294a7fdb43377\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\49e870a9eec8f3204f2e1c6917360c71\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\49e870a9eec8f3204f2e1c6917360c71\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\a0db3a8a3044f3d163644f754109c9bb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\a0db3a8a3044f3d163644f754109c9bb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\13ea80fdd53fcafad0ee1bcee48f1abb\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\13ea80fdd53fcafad0ee1bcee48f1abb\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\9ecf542824d18a752d7959bd476443ac\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\9ecf542824d18a752d7959bd476443ac\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\fe28de0ea1dd093fbcd9a4b7b3104b7f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\fe28de0ea1dd093fbcd9a4b7b3104b7f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\96dc5ba0ec6ac745e2f43434945c1f8a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\96dc5ba0ec6ac745e2f43434945c1f8a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\8e4064bf533fafb43f5fb92c42b3605e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\vassa\.gradle\caches\8.13\transforms\8e4064bf533fafb43f5fb92c42b3605e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\vassa\.gradle\caches\8.13\transforms\6c98c4c1d3f226c1fb5acc78e537fdc4\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\vassa\.gradle\caches\8.13\transforms\6c98c4c1d3f226c1fb5acc78e537fdc4\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\vassa\.gradle\caches\8.13\transforms\32daa88935b2a602a0e62a7d0e49c562\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\vassa\.gradle\caches\8.13\transforms\32daa88935b2a602a0e62a7d0e49c562\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\0bfdd65e964ac4955c74bcb336716d52\transformed\jetified-lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\0bfdd65e964ac4955c74bcb336716d52\transformed\jetified-lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\ae819659b3a27257a69c686b88603526\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\ae819659b3a27257a69c686b88603526\transformed\lifecycle-livedata-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1de6546d6a99c4eda84b6f48dafce929\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1de6546d6a99c4eda84b6f48dafce929\transformed\lifecycle-viewmodel-2.8.3\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\fa0d464a309ea66400e033aa23546301\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\fa0d464a309ea66400e033aa23546301\transformed\jetified-lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\f8ae37a320104af09ae041aea7b606c5\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\f8ae37a320104af09ae041aea7b606c5\transformed\jetified-lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\314f8350af3ea4086644de720dcd172b\transformed\jetified-lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\314f8350af3ea4086644de720dcd172b\transformed\jetified-lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\a91833680856fef55842a1780c59cb4c\transformed\jetified-lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\a91833680856fef55842a1780c59cb4c\transformed\jetified-lifecycle-livedata-core-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\7dcd3f67eb8a8f4e1254ef1498bc41b7\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\7dcd3f67eb8a8f4e1254ef1498bc41b7\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\77b6deb97f3d02e83849e08ced19dab2\transformed\jetified-lifecycle-service-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\77b6deb97f3d02e83849e08ced19dab2\transformed\jetified-lifecycle-service-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\dcb1395502a84240bef5c2078cab817e\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\dcb1395502a84240bef5c2078cab817e\transformed\jetified-lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5622f500b8ee1ba8088920d7fb9cc5c3\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5622f500b8ee1ba8088920d7fb9cc5c3\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\vassa\.gradle\caches\8.13\transforms\c924204df1d54053fb915a0451ad675d\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\vassa\.gradle\caches\8.13\transforms\c924204df1d54053fb915a0451ad675d\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\8a001bc4c7106e9936276fc3cb13a1bd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\8a001bc4c7106e9936276fc3cb13a1bd\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\fff9025cb78e1db28a9ad4e5996b2f35\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\fff9025cb78e1db28a9ad4e5996b2f35\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\c966073feb34075ace53cf5c25539468\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\c966073feb34075ace53cf5c25539468\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\f0bd3e27d71c43bdf22cbee9bd9e7f58\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\f0bd3e27d71c43bdf22cbee9bd9e7f58\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5c16d0bbca8c8b33bfaf47f4fd79d16f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5c16d0bbca8c8b33bfaf47f4fd79d16f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\c1fc2c9a321e1e6cf20dc26c4bf3faed\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\c1fc2c9a321e1e6cf20dc26c4bf3faed\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\vassa\.gradle\caches\8.13\transforms\3a8fb68bda746b894e8799054457f30b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\vassa\.gradle\caches\8.13\transforms\3a8fb68bda746b894e8799054457f30b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\0f18688b049b40db98fc6104294f3e01\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\0f18688b049b40db98fc6104294f3e01\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\cb469afe41707a9ba00e9dede7fa6ab9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\cb469afe41707a9ba00e9dede7fa6ab9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\a7f16731680b65badebc42ec42ba2468\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\a7f16731680b65badebc42ec42ba2468\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5c16d0bbca8c8b33bfaf47f4fd79d16f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5c16d0bbca8c8b33bfaf47f4fd79d16f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\f9d0d1edd947f8e354719cf915bd4920\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.iridalabs.gwallet2moneylover.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.iridalabs.gwallet2moneylover.debug.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\vassa\.gradle\caches\8.13\transforms\462e09c4df31cdafac721dccb2b03fc8\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

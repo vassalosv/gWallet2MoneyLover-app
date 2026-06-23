@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GWallet2MoneyLover" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <!-- Status bar matches the toolbar colour; white icons on blue bg -->
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <!-- Navigation bar matches window background -->
+        <item name="android:navigationBarColor">@color/colorBackground</item>
+    </style>
+
+    <!-- Translucent theme for ConfirmationActivity so it feels like a popup -->
+    <style name="Theme.GWallet2MoneyLover.Translucent" parent="Theme.MaterialComponents.DayNight.Dialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+
+</resources>

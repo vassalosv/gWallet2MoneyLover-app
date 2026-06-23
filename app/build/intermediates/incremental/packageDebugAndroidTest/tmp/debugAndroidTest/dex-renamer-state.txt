@@ -1,0 +1,4 @@
+#Thu Jun 18 19:52:28 EEST 2026
+base.0=D\:\\workspace_vangelis\\gWallet2MoneyLover-app\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
