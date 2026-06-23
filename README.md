@@ -1,5 +1,7 @@
 # gWallet2MoneyLover - Android app 
-
+<div align="center">
+  <img width="205" height="205" alt="gwallet2moneylover-205p" src="https://github.com/user-attachments/assets/f128676b-a0b4-496a-ba82-1269ff8839d0" />
+</div>
 Android automation app that detects Google Wallet payment notifications and helps enter the payment amount into Money Lover Premium.
 
 The app listens for Google Wallet notifications, parses the payment amount and merchant, asks for a single confirmation, opens Money Lover, and uses an Accessibility Service to fill the amount on the Add Transaction screen. It intentionally stops before category selection, so the user remains in control of category, notes, and final save.
