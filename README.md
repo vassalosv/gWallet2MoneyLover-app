@@ -18,17 +18,17 @@ When a Google Wallet payment is detected, the app shows a notification prompt. P
 
 <img src="docs/screenshots/payment-notification.png" alt="Payment detected notification with Yes and No actions" width="560">
 
-### Settings
-
-The settings page controls the confirmation UI, Money Lover package name, and diagnostics.
-
-<img src="docs/screenshots/settings-page.png" alt="Settings screen with overlay, notification, package name, and debug controls" width="360">
-
 ### Money Lover Amount Filled
 
 After confirmation, Money Lover opens on Add Transaction and the amount is entered automatically. The user then selects a category and taps Save.
 
 <img src="docs/screenshots/money-lover-filled.png" alt="Money Lover Add Transaction screen with amount filled" width="360">
+
+### Settings
+
+The settings page controls the confirmation UI, Money Lover package name, and diagnostics.
+
+<img src="docs/screenshots/settings-page.png" alt="Settings screen with overlay, notification, package name, and debug controls" width="360">
 
 ## What It Does
 
