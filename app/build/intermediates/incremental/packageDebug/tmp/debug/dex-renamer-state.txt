@@ -1,4 +1,4 @@
-#Tue Jun 23 21:33:30 EEST 2026
+#Tue Jun 23 21:46:54 EEST 2026
 base.0=D\:\\workspace_vangelis\\myGithub-vassalosv\\gWallet2MoneyLover-app\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=D\:\\workspace_vangelis\\myGithub-vassalosv\\gWallet2MoneyLover-app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=D\:\\workspace_vangelis\\myGithub-vassalosv\\gWallet2MoneyLover-app\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex

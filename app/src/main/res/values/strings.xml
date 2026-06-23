@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">gWallet → Money Lover</string>
+    <string name="app_name">gWallet2MoneyLover</string>
 
     <!-- Notification channels -->
     <string name="channel_payment_name">Google Wallet Payments</string>

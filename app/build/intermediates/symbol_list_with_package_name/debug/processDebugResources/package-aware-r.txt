@@ -3297,6 +3297,7 @@ id btnGrantOverlay
 id btnOpenMoneyLover
 id btnOverlayNo
 id btnOverlayYes
+id btnSaveMoneyLoverPackage
 id btnScanActiveNotifications
 id btnTestPayment
 id buttonPanel
@@ -3381,6 +3382,7 @@ id endToStart
 id enterAlways
 id enterAlwaysCollapsed
 id escape
+id etMoneyLoverPackage
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -3601,7 +3603,6 @@ id seekbar_value
 id select_dialog_listview
 id selected
 id selection_type
-id settingsContainer
 id sharedValueSet
 id sharedValueUnset
 id shortcut
@@ -3642,6 +3643,9 @@ id submenuarrow
 id submit_area
 id supportScrollUp
 id svDebugLog
+id switchDebug
+id switchNotification
+id switchOverlay
 id switchWidget
 id tabMode
 id tag_accessibility_actions
@@ -3679,6 +3683,7 @@ id titleDividerNoCustom
 id title_template
 id toggle
 id toolbar
+id toolbarSettings
 id top
 id topPanel
 id touch_outside
@@ -3697,6 +3702,7 @@ id tvConfirmAmount
 id tvConfirmDate
 id tvConfirmMerchant
 id tvDebugLog
+id tvMoneyLoverPackageSummary
 id tvOverlayAmount
 id tvOverlayDate
 id tvOverlayTitle

@@ -4,11 +4,16 @@ package com.iridalabs.gwallet2moneylover.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.FrameLayout;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.LinearLayout;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.widget.Toolbar;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
+import com.google.android.material.switchmaterial.SwitchMaterial;
 import com.iridalabs.gwallet2moneylover.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -16,20 +21,47 @@ import java.lang.String;
 
 public final class ActivitySettingsBinding implements ViewBinding {
   @NonNull
-  private final FrameLayout rootView;
+  private final LinearLayout rootView;
 
   @NonNull
-  public final FrameLayout settingsContainer;
+  public final Button btnSaveMoneyLoverPackage;
 
-  private ActivitySettingsBinding(@NonNull FrameLayout rootView,
-      @NonNull FrameLayout settingsContainer) {
+  @NonNull
+  public final EditText etMoneyLoverPackage;
+
+  @NonNull
+  public final SwitchMaterial switchDebug;
+
+  @NonNull
+  public final SwitchMaterial switchNotification;
+
+  @NonNull
+  public final SwitchMaterial switchOverlay;
+
+  @NonNull
+  public final Toolbar toolbarSettings;
+
+  @NonNull
+  public final TextView tvMoneyLoverPackageSummary;
+
+  private ActivitySettingsBinding(@NonNull LinearLayout rootView,
+      @NonNull Button btnSaveMoneyLoverPackage, @NonNull EditText etMoneyLoverPackage,
+      @NonNull SwitchMaterial switchDebug, @NonNull SwitchMaterial switchNotification,
+      @NonNull SwitchMaterial switchOverlay, @NonNull Toolbar toolbarSettings,
+      @NonNull TextView tvMoneyLoverPackageSummary) {
     this.rootView = rootView;
-    this.settingsContainer = settingsContainer;
+    this.btnSaveMoneyLoverPackage = btnSaveMoneyLoverPackage;
+    this.etMoneyLoverPackage = etMoneyLoverPackage;
+    this.switchDebug = switchDebug;
+    this.switchNotification = switchNotification;
+    this.switchOverlay = switchOverlay;
+    this.toolbarSettings = toolbarSettings;
+    this.tvMoneyLoverPackageSummary = tvMoneyLoverPackageSummary;
   }
 
   @Override
   @NonNull
-  public FrameLayout getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -54,13 +86,51 @@ public final class ActivitySettingsBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.settingsContainer;
-      FrameLayout settingsContainer = ViewBindings.findChildViewById(rootView, id);
-      if (settingsContainer == null) {
+      id = R.id.btnSaveMoneyLoverPackage;
+      Button btnSaveMoneyLoverPackage = ViewBindings.findChildViewById(rootView, id);
+      if (btnSaveMoneyLoverPackage == null) {
         break missingId;
       }
 
-      return new ActivitySettingsBinding((FrameLayout) rootView, settingsContainer);
+      id = R.id.etMoneyLoverPackage;
+      EditText etMoneyLoverPackage = ViewBindings.findChildViewById(rootView, id);
+      if (etMoneyLoverPackage == null) {
+        break missingId;
+      }
+
+      id = R.id.switchDebug;
+      SwitchMaterial switchDebug = ViewBindings.findChildViewById(rootView, id);
+      if (switchDebug == null) {
+        break missingId;
+      }
+
+      id = R.id.switchNotification;
+      SwitchMaterial switchNotification = ViewBindings.findChildViewById(rootView, id);
+      if (switchNotification == null) {
+        break missingId;
+      }
+
+      id = R.id.switchOverlay;
+      SwitchMaterial switchOverlay = ViewBindings.findChildViewById(rootView, id);
+      if (switchOverlay == null) {
+        break missingId;
+      }
+
+      id = R.id.toolbarSettings;
+      Toolbar toolbarSettings = ViewBindings.findChildViewById(rootView, id);
+      if (toolbarSettings == null) {
+        break missingId;
+      }
+
+      id = R.id.tvMoneyLoverPackageSummary;
+      TextView tvMoneyLoverPackageSummary = ViewBindings.findChildViewById(rootView, id);
+      if (tvMoneyLoverPackageSummary == null) {
+        break missingId;
+      }
+
+      return new ActivitySettingsBinding((LinearLayout) rootView, btnSaveMoneyLoverPackage,
+          etMoneyLoverPackage, switchDebug, switchNotification, switchOverlay, toolbarSettings,
+          tvMoneyLoverPackageSummary);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

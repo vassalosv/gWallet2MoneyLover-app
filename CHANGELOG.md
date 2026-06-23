@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.10] - 2026-06-23
+
+### Fixed
+- Rebuilt the settings screen with explicit toolbar, readable labels, summaries, switches, and Money Lover package editing. This fixes the blank white settings page where only switches were visible.
+
+### Changed
+- Android app label changed to `gWallet2MoneyLover`.
+
 ## [1.0.9] - 2026-06-23
 
 ### Changed

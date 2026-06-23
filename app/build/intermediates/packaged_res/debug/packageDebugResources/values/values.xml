@@ -16,7 +16,7 @@
     <string name="accessibility_service_label">Money Lover transaction filler</string>
     <string name="action_no">No</string>
     <string name="action_yes">Yes</string>
-    <string name="app_name">gWallet → Money Lover</string>
+    <string name="app_name">gWallet2MoneyLover</string>
     <string name="btn_cancel">Cancel</string>
     <string name="btn_grant">Grant</string>
     <string name="btn_open_ml">Open Money Lover</string>
