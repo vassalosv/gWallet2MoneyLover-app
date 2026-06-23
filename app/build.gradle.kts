@@ -1,3 +1,5 @@
+import com.android.build.gradle.internal.api.BaseVariantOutputImpl
+
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
@@ -11,8 +13,8 @@ android {
         applicationId = "com.iridalabs.gwallet2moneylover"
         minSdk = 26
         targetSdk = 35
-        versionCode = 9
-        versionName = "1.0.8"
+        versionCode = 10
+        versionName = "1.0.9"
     }
 
     buildTypes {
@@ -45,6 +47,15 @@ android {
     sourceSets {
         getByName("main") {
             java.srcDirs("src/main/kotlin")
+        }
+    }
+
+    @Suppress("DEPRECATION")
+    applicationVariants.all {
+        val apkVersionName = versionName
+        outputs.all {
+            (this as BaseVariantOutputImpl).outputFileName =
+                "gWallet2MoneyLover-v$apkVersionName.apk"
         }
     }
 }

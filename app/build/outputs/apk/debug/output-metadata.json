@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 9,
-      "versionName": "1.0.8-debug",
-      "outputFile": "app-debug.apk"
+      "versionCode": 10,
+      "versionName": "1.0.9-debug",
+      "outputFile": "gWallet2MoneyLover-v1.0.9-debug.apk"
     }
   ],
   "elementType": "File",

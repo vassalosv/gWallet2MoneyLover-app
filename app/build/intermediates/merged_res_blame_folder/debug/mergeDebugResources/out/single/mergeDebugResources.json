@@ -1,110 +1,106 @@
 [
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\drawable_ic_close.xml.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\drawable\\ic_close.xml"
-    },
-    {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/layout_activity_confirmation.xml.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/layout/activity_confirmation.xml"
     },
     {
         "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/layout_activity_main.xml.flat",
         "source": "com.iridalabs.gwallet2moneylover.app-main-43:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\layout_activity_confirmation.xml.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\layout\\activity_confirmation.xml"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-xxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/drawable_ic_check.xml.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/drawable/ic_check.xml"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\drawable_ic_wallet.xml.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\drawable\\ic_wallet.xml"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/menu_menu_main.xml.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/menu/menu_main.xml"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\layout_activity_settings.xml.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\layout\\activity_settings.xml"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-xhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/layout_overlay_payment.xml.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/layout/overlay_payment.xml"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-hdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/xml_accessibility_service_config.xml.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/xml/accessibility_service_config.xml"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/drawable_ic_close.xml.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/drawable/ic_close.xml"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\layout_overlay_payment.xml.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\layout\\overlay_payment.xml"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/drawable_ic_wallet.xml.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/drawable/ic_wallet.xml"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/layout_activity_settings.xml.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/layout/activity_settings.xml"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\menu_menu_main.xml.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\menu\\menu_main.xml"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\layout\\activity_main.xml"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\xml_accessibility_service_config.xml.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\xml\\accessibility_service_config.xml"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\drawable_ic_check.xml.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\drawable\\ic_check.xml"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-debug-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\vassa\\.gradle\\daemon\\8.13\\com.iridalabs.gwallet2moneylover.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.iridalabs.gwallet2moneylover.app-debug-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.iridalabs.gwallet2moneylover.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
     }
 ]

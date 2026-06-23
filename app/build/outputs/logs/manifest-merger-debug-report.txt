@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:1-121:12
-INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:1-121:12
-INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:1-121:12
-INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:1-121:12
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:1-121:12
+INJECTED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:1-121:12
 MERGED from [androidx.databinding:viewbinding:8.13.2] C:\Users\vassa\.gradle\caches\8.13\transforms\ce9dce1a98673727dc6909b7e24273e7\transformed\jetified-viewbinding-8.13.2\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\vassa\.gradle\caches\8.13\transforms\d8c38c48fef00aeb608bab3fb14fdaa2\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\vassa\.gradle\caches\8.13\transforms\d7b3a74e93f9f17fa9c9e254b20c53a5\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -59,54 +59,54 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vassa\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\cb469afe41707a9ba00e9dede7fa6ab9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\a7f16731680b65badebc42ec42ba2468\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:6:5-81
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:6:22-78
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:8:5-78
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:8:5-78
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:8:22-75
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:8:22-75
 uses-permission#android.permission.POST_NOTIFICATIONS
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:10:5-77
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:10:5-77
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:10:22-74
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:10:22-74
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:12:5-77
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:12:5-77
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:12:22-74
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:12:22-74
 uses-permission#android.permission.VIBRATE
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:14:5-66
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:14:5-66
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:14:22-63
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:14:22-63
 uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:16:5-95
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:16:5-95
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:16:22-92
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:16:22-92
 uses-permission#android.permission.QUERY_ALL_PACKAGES
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:18:5-19:53
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:18:5-19:53
 	tools:ignore
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:19:9-50
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:19:9-50
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:18:22-74
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:18:22-74
 queries
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:21:5-23:15
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:21:5-23:15
 package#com.bookmark.money
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:22:9-54
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:22:9-54
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:22:18-51
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:22:18-51
 application
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:25:5-119:19
-INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:25:5-119:19
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:25:5-119:19
+INJECTED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:25:5-119:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\vassa\.gradle\caches\8.13\transforms\d8c38c48fef00aeb608bab3fb14fdaa2\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\vassa\.gradle\caches\8.13\transforms\d8c38c48fef00aeb608bab3fb14fdaa2\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\vassa\.gradle\caches\8.13\transforms\d7b3a74e93f9f17fa9c9e254b20c53a5\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -126,139 +126,139 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\va
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5c16d0bbca8c8b33bfaf47f4fd79d16f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\vassa\.gradle\caches\8.13\transforms\5c16d0bbca8c8b33bfaf47f4fd79d16f\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
-		INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] C:\Users\vassa\.gradle\caches\8.13\transforms\a20456b9110061239c1f4648485c6e93\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:30:9-35
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:30:9-35
 	android:label
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:28:9-41
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:28:9-41
 	android:roundIcon
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:29:9-54
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:29:9-54
 	android:icon
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:27:9-43
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:27:9-43
 	android:allowBackup
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:26:9-36
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:26:9-36
 	android:theme
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:31:9-56
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:31:9-56
 activity#com.iridalabs.gwallet2moneylover.ui.MainActivity
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:36:9-44:20
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:36:9-44:20
 	android:label
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:39:13-45
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:39:13-45
 	android:exported
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:38:13-36
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:38:13-36
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:37:13-44
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:37:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:40:13-43:29
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:40:13-43:29
 action#android.intent.action.MAIN
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:41:17-69
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:41:17-69
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:41:25-66
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:41:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:42:17-77
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:42:17-77
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:42:27-74
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:42:27-74
 activity#com.iridalabs.gwallet2moneylover.ui.SettingsActivity
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:47:9-51:61
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:47:9-51:61
 	android:parentActivityName
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:51:13-58
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:51:13-58
 	android:label
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:50:13-45
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:50:13-45
 	android:exported
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:49:13-37
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:49:13-37
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:48:13-48
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:48:13-48
 activity#com.iridalabs.gwallet2moneylover.ui.ConfirmationActivity
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:54:9-60:75
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:54:9-60:75
 	android:excludeFromRecents
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:57:13-46
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:57:13-46
 	android:launchMode
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:58:13-44
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:58:13-44
 	android:exported
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:56:13-37
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:56:13-37
 	android:showOnLockScreen
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:59:13-44
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:59:13-44
 	android:theme
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:60:13-72
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:60:13-72
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:55:13-52
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:55:13-52
 service#com.iridalabs.gwallet2moneylover.notification.WalletNotificationListener
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:65:9-73:19
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:65:9-73:19
 	android:label
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:68:13-64
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:68:13-64
 	android:exported
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:67:13-36
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:67:13-36
 	android:permission
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:69:13-87
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:69:13-87
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:66:13-68
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:66:13-68
 intent-filter#action:name:android.service.notification.NotificationListenerService
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:70:13-72:29
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:70:13-72:29
 action#android.service.notification.NotificationListenerService
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:71:17-99
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:71:17-99
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:71:25-96
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:71:25-96
 service#com.iridalabs.gwallet2moneylover.overlay.OverlayService
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:78:9-80:40
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:78:9-80:40
 	android:exported
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:80:13-37
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:80:13-37
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:79:13-51
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:79:13-51
 service#com.iridalabs.gwallet2moneylover.accessibility.MoneyLoverAccessibilityService
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:85:9-96:19
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:85:9-96:19
 	android:label
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:88:13-64
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:88:13-64
 	android:exported
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:87:13-36
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:87:13-36
 	android:permission
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:89:13-79
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:89:13-79
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:86:13-73
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:86:13-73
 intent-filter#action:name:android.accessibilityservice.AccessibilityService
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:90:13-92:29
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:90:13-92:29
 action#android.accessibilityservice.AccessibilityService
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:91:17-92
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:91:17-92
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:91:25-89
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:91:25-89
 meta-data#android.accessibilityservice
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:93:13-95:72
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:93:13-95:72
 	android:resource
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:95:17-69
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:95:17-69
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:94:17-60
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:94:17-60
 receiver#com.iridalabs.gwallet2moneylover.receiver.PaymentActionReceiver
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:101:9-108:20
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:101:9-108:20
 	android:exported
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:103:13-37
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:103:13-37
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:102:13-59
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:102:13-59
 intent-filter#action:name:com.iridalabs.gwallet2moneylover.ACTION_CONFIRMED+action:name:com.iridalabs.gwallet2moneylover.ACTION_DISMISSED
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:104:13-107:29
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:104:13-107:29
 action#com.iridalabs.gwallet2moneylover.ACTION_CONFIRMED
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:105:17-92
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:105:17-92
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:105:25-89
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:105:25-89
 action#com.iridalabs.gwallet2moneylover.ACTION_DISMISSED
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:106:17-92
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:106:17-92
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:106:25-89
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:106:25-89
 receiver#com.iridalabs.gwallet2moneylover.receiver.BootReceiver
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:111:9-117:20
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:111:9-117:20
 	android:exported
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:113:13-36
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:113:13-36
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:112:13-50
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:112:13-50
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:114:13-116:29
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:114:13-116:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:115:17-79
+ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:115:17-79
 	android:name
-		ADDED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:115:25-76
+		ADDED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml:115:25-76
 uses-sdk
-INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
-INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+INJECTED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+INJECTED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:8.13.2] C:\Users\vassa\.gradle\caches\8.13\transforms\ce9dce1a98673727dc6909b7e24273e7\transformed\jetified-viewbinding-8.13.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.13.2] C:\Users\vassa\.gradle\caches\8.13\transforms\ce9dce1a98673727dc6909b7e24273e7\transformed\jetified-viewbinding-8.13.2\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\vassa\.gradle\caches\8.13\transforms\d8c38c48fef00aeb608bab3fb14fdaa2\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
@@ -368,9 +368,9 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\User
 MERGED from [androidx.print:print:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\a7f16731680b65badebc42ec42ba2468\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\vassa\.gradle\caches\8.13\transforms\a7f16731680b65badebc42ec42ba2468\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\workspace_vangelis\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace_vangelis\myGithub-vassalosv\gWallet2MoneyLover-app\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\vassa\.gradle\caches\8.13\transforms\58737cb1779b54334e2a12b7e2e2d4c1\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\vassa\.gradle\caches\8.13\transforms\1946c3a403586a048293f77cd3e3173e\transformed\jetified-lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20

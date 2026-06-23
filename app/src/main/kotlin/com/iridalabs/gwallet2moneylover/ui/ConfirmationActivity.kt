@@ -1,15 +1,12 @@
 package com.iridalabs.gwallet2moneylover.ui
 
-import android.content.Intent
-import android.content.pm.PackageManager
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.iridalabs.gwallet2moneylover.R
-import com.iridalabs.gwallet2moneylover.accessibility.MoneyLoverAccessibilityService
-import com.iridalabs.gwallet2moneylover.data.AppSettings
+import com.iridalabs.gwallet2moneylover.automation.MoneyLoverFlow
 import com.iridalabs.gwallet2moneylover.data.PaymentInfo
 import com.iridalabs.gwallet2moneylover.data.PendingTransactionStore
 import com.iridalabs.gwallet2moneylover.notification.NotificationHelper
@@ -60,42 +57,6 @@ class ConfirmationActivity : AppCompatActivity() {
     }
 
     private fun openMoneyLover(payment: PaymentInfo) {
-        val mlPackage = AppSettings.getMoneyLoverPackage(this)
-
-        // Check Money Lover is installed
-        val installed = try {
-            packageManager.getPackageInfo(mlPackage, 0)
-            true
-        } catch (e: PackageManager.NameNotFoundException) {
-            false
-        }
-
-        if (!installed) {
-            Toast.makeText(
-                this,
-                getString(R.string.error_ml_not_installed, mlPackage),
-                Toast.LENGTH_LONG
-            ).show()
-            return
-        }
-
-        // Check accessibility service is running
-        if (!MoneyLoverAccessibilityService.isRunning) {
-            Toast.makeText(this, getString(R.string.error_accessibility_off), Toast.LENGTH_LONG).show()
-            // Open accessibility settings so the user can enable the service
-            startActivity(Intent(android.provider.Settings.ACTION_ACCESSIBILITY_SETTINGS))
-            return
-        }
-
-        // Signal the accessibility service: payment is ready, automate on next ML window
-        MoneyLoverAccessibilityService.triggerAutomation(payment)
-
-        // Launch Money Lover
-        val launchIntent = packageManager.getLaunchIntentForPackage(mlPackage)
-        if (launchIntent != null) {
-            startActivity(launchIntent)
-        }
-
-        finish()
+        if (MoneyLoverFlow.launch(this, payment)) finish()
     }
 }

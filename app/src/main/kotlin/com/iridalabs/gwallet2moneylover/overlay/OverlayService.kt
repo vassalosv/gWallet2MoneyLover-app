@@ -11,11 +11,11 @@ import android.view.WindowManager
 import android.widget.Button
 import android.widget.TextView
 import com.iridalabs.gwallet2moneylover.R
+import com.iridalabs.gwallet2moneylover.automation.MoneyLoverFlow
 import com.iridalabs.gwallet2moneylover.data.AppSettings
 import com.iridalabs.gwallet2moneylover.data.PaymentInfo
 import com.iridalabs.gwallet2moneylover.notification.NotificationHelper
 import com.iridalabs.gwallet2moneylover.receiver.PaymentActionReceiver
-import com.iridalabs.gwallet2moneylover.ui.ConfirmationActivity
 
 /**
  * Regular (non-foreground) service that shows a floating overlay card.
@@ -99,11 +99,7 @@ class OverlayService : Service() {
 
     private fun onUserConfirmed(payment: PaymentInfo) {
         dismissOverlay()
-        val intent = Intent(this, ConfirmationActivity::class.java).apply {
-            addFlags(Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_SINGLE_TOP)
-            putExtras(NotificationHelper.paymentExtras(payment))
-        }
-        startActivity(intent)
+        MoneyLoverFlow.launch(this, payment)
         stopSelf()
     }
 

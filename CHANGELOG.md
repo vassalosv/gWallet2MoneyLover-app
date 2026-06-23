@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.9] - 2026-06-23
+
+### Changed
+- Pressing `Yes` on the payment notification now launches Money Lover directly and starts the existing accessibility automation, skipping the intermediate confirmation popup.
+- Pressing `Yes` on the floating overlay follows the same direct-to-Money-Lover flow.
+- Shared the Money Lover launch/automation checks in one helper so fallback paths still validate Money Lover installation and accessibility service status.
+
 ## [1.0.8] - 2026-06-22
 
 ### Added
